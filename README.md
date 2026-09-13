@@ -15,3 +15,7 @@ I'm a computer science and cybersecurity major studying at William Jewell Colleg
 - Creating a personal portfolio to showcase my projects
 - Learning React through building a weatehr app
 - Contributing documentation improvements to open source projects
+
+
+## Let's Connect
+- **Email**: rossm.25@william.jewell.edu
