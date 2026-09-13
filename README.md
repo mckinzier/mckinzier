@@ -19,3 +19,30 @@ I'm a computer science and cybersecurity major studying at William Jewell Colleg
 
 ## Let's Connect
 - **Email**: rossm.25@william.jewell.edu
+
+
+## Fun Facts
+- I'm learning the guitar
+- I am a college wrestler
+- I enjoy gaming
+- Cat lover
+- Love love music of pretty much all genres.
+- Enjoy trips with family. Recently went white water rafting in the Grand Canyon. Awesome trip and now want to be a guide
+- Love watersports and being at the Lake
+- I enjoy true crime and reality TV such as..
+    - Car Masters: Rust to Riches - cars
+    - Glow Up - makeup
+    - The Big Flower Fight - flower arrangements
+    - Nailed It - baking show of "not-great" home bakers
+    - School of Chocolate - chocolate sculptures
+    - Outlast Alaska - surving alaskan
+    - Outlast Jungle - surving the jungle
+    - Blown Away - glass blowing
+    - Hoarders - well.. hoarders and professionals helping them clean up
+    - Interior Design Masters - designing home interiors
+    - Skin Wars - body painting
+    - Drink Masters - miixologists and cocktails
+    - Ultimate Beastmasters - athletes from all over the world competing in an obstacle course
+    - Physical 100 - 100 contestants compete in physically demanding challenges
+I could go on an on but these are good ones I've watched. Check them out!
+- I enjoy creating jewelery and metalsmithing.
