@@ -1,4 +1,4 @@
-# Hi, I'm Mckinzie!
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Mckinzie!)](https://git.io/typing-svg)
 
 I'm a computer science and cybersecurity major studying at William Jewell College. I am fairly new to coding so really, I enjoy the feeling of completing and figuring things out on my own because I usually surprise myself. I hope to gain a passion for coding as I figure things out and gain mroe confidence in what I'm doing. I view this just like sports or math. I enjoy things when I am good or understand what I'm doing and it's easy to lose interest or dread things when you don't.
 
@@ -46,3 +46,5 @@ I'm a computer science and cybersecurity major studying at William Jewell Colleg
     - Physical 100 - 100 contestants compete in physically demanding challenges
 I could go on an on but these are good ones I've watched. Check them out!
 - I enjoy creating jewelery and metalsmithing.
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
