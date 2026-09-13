@@ -8,3 +8,10 @@ I'm a computer science and cybersecurity major studying at William Jewell Colleg
 - **Currently Learning**: React, Node.js, SQL databases
 - **Tools**: VS Code, Git, GitHub, Figma
 - **Interests**: Games and clean, interactive websites
+
+
+## What I'm Currently Working On
+- Building responsive websties as part of my web development coursework
+- Creating a personal portfolio to showcase my projects
+- Learning React through building a weatehr app
+- Contributing documentation improvements to open source projects
